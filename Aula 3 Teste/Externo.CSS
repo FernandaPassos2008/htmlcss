@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(147, 232, 238); /* cor de fundo da pagína */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Fonte do Texto */
+}
+
+h1 {
+    color: rgb(192, 42, 97);
+    text-align: center;
+}
+h2 {
+    color: rgb(rgba(242, 242, 28, 0.8), #c975b886, rgb(99, 54, 234));
+    text-align: left;
+
+}
+p1 {
+    color: rgb(rgba(96, 3, 46, 0.934), rgba(1, 81, 1, 0.289), rgba(0, 0, 73, 0.579));
+    text-align: justify;
+}
+p2 {
+    color: crimson;
+    text-align: right;
+    font-size:xx-large;
+}
