@@ -1,0 +1,26 @@
+#caixa1{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(241, 248, 201);
+  }
+#caixa2{
+    border: 2px solid rgb(232, 237, 126);
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(21, 182, 235);
+}
+#caixa3{
+    color: rgb(126, 53, 195);
+    border: 2px solid rgb(162, 89, 194);
+    padding: 15px;
+    margin: 10px;
+    background-color: lightblue;
+}
+#caixa4{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
